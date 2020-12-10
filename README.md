@@ -15,7 +15,8 @@ Gather with your team. Discuss a plan and create a flow chart. Begin creating a 
 
 
 
-
+# Flowchart
+![Design) (
 # files we need
 -sender/reciever code
 -STL file
