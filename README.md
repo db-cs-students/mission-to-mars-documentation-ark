@@ -15,10 +15,11 @@ Gather with your team. Discuss a plan and create a flow chart. Begin creating a 
 
 
 
+# Design
+![Design](Design.JPG)
+
 # Flowchart
-![Design) (
-# files we need
--sender/reciever code
--STL file
--pictures:solution
--flow-chart
+![Flowchart](Flowchart.JPG)
+
+
+
