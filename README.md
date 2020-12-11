@@ -40,7 +40,7 @@ Gather with your team. Discuss a plan and create a flow chart. Begin creating a 
 
 
 # Team Reflection
-
+The body of our design turned out really well but we still have a couple minor problems. The lid doesn't fully fit on the case due to the battery pack connector
 
 
 # Design
