@@ -51,4 +51,4 @@ Gather with your team. Discuss a plan and create a flow chart. Begin creating a 
 
 ![Proto2](Proto2.jpg)
 
-![Proro3](Proro3.jpg)
+![Proro3](Proto3.jpg)
