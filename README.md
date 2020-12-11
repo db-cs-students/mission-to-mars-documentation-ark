@@ -5,7 +5,8 @@
 # Summary
 The core idea was to create a simple box we could open and close easily while still succeeding at protecting our battery and microbit. We first attempted to create a box with hinged door to easily open and close; However, printing on such a small scale had us encountering problems with creating circular holes that would line up, becuase of this we changed our design to a more simplilar box with a roof that has two plastic clips to hold the roof down.
 
-# Sensor Payload
+## Sensor
+![Sensor](Sensor.jpg)
 
 ## Receiver Code
 
