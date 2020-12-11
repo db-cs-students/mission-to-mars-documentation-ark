@@ -47,4 +47,8 @@ Gather with your team. Discuss a plan and create a flow chart. Begin creating a 
 ![Flowchart](Flowchart.JPG)
 
 # Prototypes
+![Proto1](Proto1.HEIC)
 
+![Proto2](Proto2.HEIC)
+
+![Proto3](Proto3.HEIC)
