@@ -47,8 +47,8 @@ Gather with your team. Discuss a plan and create a flow chart. Begin creating a 
 ![Flowchart](Flowchart.JPG)
 
 # Prototypes
-![Proto1](Proto1.JPG)
+![Proto1](Proto1.jpg)
 
-![Proto2](Proto2.JPG)
+![Proto2](Proto2.jpg)
 
-![Proto3](Proto3.JPG)
+![Proto3](Proto3.jpg)
