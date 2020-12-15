@@ -41,8 +41,8 @@ Gather with your team. Discuss a plan and create a flow chart. Begin creating a 
 
 # Team Reflection
 The body of our design turned out really well but we still have a couple minor problems. The lid doesn't fully fit on the case due to the battery pack connector
-
-
+wires and the pieces to hold the lid on don't fit, but we've problem solved by using tape to hold it in place and secure the micro-bit.
+.
 # Design
 ![Design](Design.JPG)
 
